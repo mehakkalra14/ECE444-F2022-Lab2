@@ -7,6 +7,8 @@ Activity 1
 
 Activity 2
 
+<img width="666" alt="act2a" src="https://user-images.githubusercontent.com/64912362/192124131-b6b60d8e-2a3e-4f2d-a31b-ded7910463ae.png">
+
 <img width="1210" alt="Act 2 screenshot" src="https://user-images.githubusercontent.com/64912362/192119151-fc91442d-a1ba-47f7-8353-72b76e95eb56.png">
 
 <img width="1440" alt="Activity 2" src="https://user-images.githubusercontent.com/64912362/192119072-08f56527-244b-403f-9ab9-77e0b30cd5c2.png">
